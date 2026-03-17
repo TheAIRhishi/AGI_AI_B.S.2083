@@ -1,0 +1,41 @@
+# Credentials
+.env
+.env.local
+secrets/
+*.key
+
+# Data
+data/raw/**
+*.csv
+*.xlsx
+
+# Models & Artifacts
+*.pkl
+*.h5
+*.pth
+*.pt
+models/checkpoints/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment
+venv/
+env/
+.conda/
+
+# Results
+results/

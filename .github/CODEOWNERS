@@ -1,0 +1,12 @@
+# Global code owner
+* @TheAIRhishi
+
+# Documentation ownership
+docs/ @TheAIRhishi
+*.md @TheAIRhishi
+
+# Test oversight
+tests/ @TheAIRhishi
+
+# Data governance
+data/ @TheAIRhishi

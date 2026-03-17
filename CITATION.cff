@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "GenAI_2083: AI Science Repository"
+authors:
+  - family-names: "Sharma"
+    given-names: "Aayush"
+date-released: 2026-03-17
+license: MIT
+repository-code: "https://github.com/TheAIRhishi/GenAI_2083"
+keywords:
+  - "AI"
+  - "Machine Learning"
+  - "Reproducibility"
+version: 0.1.0
